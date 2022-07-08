@@ -1,0 +1,16 @@
+
+.button1
+{
+   
+    background-color:greenyellow;
+    color: brown;
+    transition: transform 0.3s ease;
+    border-radius: 30px;
+}
+.button2
+{
+    background-color:greenyellow;
+    color: brown;
+    transition: transform 0.3s ease;
+    border-radius: 30px;
+}   
